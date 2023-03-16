@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.weatherapp-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\android\\daemon\\7.5\\com.example.weatherapp-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\android\\daemon\\7.5\\com.example.weatherapp-main-31:\\layout\\activity_main.xml"
+    }
+]
